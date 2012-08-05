@@ -1,7 +1,7 @@
 mfa-elisp-lib
 =============
 
-repo stores miscellaneous snippets written in elisp
+repo that stores miscellaneous snippets written in elisp
 
 #### Current Content ####
 
